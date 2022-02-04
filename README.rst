@@ -5,7 +5,7 @@
 Only works on >= Python 3.10
 ----------------------------
 
-.. image:: .imgs/logo-django-cookiecutter-1280x640.png
+.. image:: ./imgs/logo-django-cookiecutter-1280x640.png
    :alt:
 
 A `Django`_  project Apps `Cookiecutter`_.
